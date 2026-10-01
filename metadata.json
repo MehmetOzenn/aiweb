@@ -1,0 +1,6 @@
+{
+  "name": "ElektroVolt - İnşaat Elektrik Portfolyo ve Teklif Yönetimi",
+  "description": "İnşaat ve endüstriyel elektrik taahhüt projeleri için etkileşimli portfolyo sunumu, keşif-metraj cetveli ve profesyonel teklif yönetim sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
